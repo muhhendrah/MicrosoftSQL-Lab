@@ -1,2 +1,2 @@
 # SQL-Code
-This Repository will hold all code or documents related to SQL Projects i learned.
+This Repository will hold all code or documents related to Microsoft SQL Server Projects i learned.
